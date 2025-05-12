@@ -1,0 +1,5 @@
+[{
+  "packageFamilyName" : "Microsoft.OutlookForWindows_8wekyb3d8bbwe",
+  "paths" : [ "/mail/applink/*" ],
+  "excludePaths" : []
+ }]
